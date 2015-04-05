@@ -1,5 +1,5 @@
 # router
-Simple and fast HTTP router for Go language (Golang).
+Simple and fast router for Go (Golang) HTTP server.
 
 ## Using router
 `router` implements `http.HandlerFunc`, so it can be used with `http.ListenAndServe()`.
